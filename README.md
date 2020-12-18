@@ -70,5 +70,7 @@
  ### One can use the below link to check the compatibilty of different cuda version with nvidia drivers
   https://docs.nvidia.com/deploy/cuda-compatibility/index.html
   
+ #### One can also take the help from here
+ https://gist.github.com/mari-linhares/cef4cb3440408e44963d1447a7db5ae0
  
  
