@@ -48,7 +48,7 @@
        sudo add-apt-repository ppa:graphics-drivers/ppa
        sudo apt update
        sudo ubuntu-drivers list
-       ---this will show you a list of softwares---
+       ---this will show you a list of drivers---
        sudo apt install nvidia-driver-440-server
        sudo reboot
     3) after rebooting check the installation by pressing ctrl+alt+T and write 'nvidia-smi' & also check the system configuration.
